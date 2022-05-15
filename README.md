@@ -3,4 +3,4 @@ Traffic Sign Detection system that utilizes Faster RCNN Inception Resnet V2. Com
 
 
 
-<video src='lib/vids/clip_edit.mp4' width=180/>
+<video src='https://github.com/dokeefemain/Traffic_sign_detection_Faster_RCNN/blob/main/lib/vids/clip3_edit.mp4' width=180/>
