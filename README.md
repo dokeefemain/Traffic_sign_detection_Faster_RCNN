@@ -3,8 +3,4 @@ Traffic Sign Detection system that utilizes Faster RCNN Inception Resnet V2. Com
 
 
 
-<video controls width=300>
-    <source src="lib/vids/clip3_edit.mp4",type="video/mp4">
-    Your browser does not support the video tag.
-</video>
-
+<video src='lib/vids/clip_edit.mp4' width=180/>
